@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* this is my version*/
 
 int lst[] = {10, 9, 8, 4, 5, 6, 7, 3, 2, 1};
 
